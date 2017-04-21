@@ -1,0 +1,2 @@
+Django==1.11
+django-rest-framework-social-oauth2==1.0.5
